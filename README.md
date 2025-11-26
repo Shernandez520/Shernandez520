@@ -28,3 +28,5 @@ Batch processes product thumbnails for webstores with consistent formatting and 
 ---
 
 📫 Let’s connect — I’m always open to sharing ideas, feedback, or collaborating on creative automation projects!
+
+🛠️ Tech: PowerShell, JavaScript (ExtendScript), Adobe Illustrator Scripting, Automation Workflows, Git, Windows
