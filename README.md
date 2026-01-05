@@ -27,6 +27,16 @@ With a background in production design and digital operations, I build lightweig
 
 ---
 
+## 🎨 ArtCheck — AI-Powered Artwork Review Assistant *(in active development)*
+
+ArtCheck is a specialized workflow assistant designed for the promotional products industry. It generates instant artwork previews, extracts key production details, and provides AI-powered production guidance through "ArtBot" — helping reduce back-and-forth between sales and art teams and saving hours of manual review time.
+
+Built with Python, Streamlit, and Claude API integration. Positioned as a commercial SaaS solution targeting promotional products suppliers.
+
+*Demo + detailed write-up coming soon.*
+
+---
+
 ## 🔧 Currently Building
 - AI-powered automations in Zapier & Make.com  
 - Tools that streamline creative production workflows  
@@ -65,6 +75,39 @@ Batch processes product thumbnails for e-commerce workflows with consistent form
 
 A lightweight workflow that identifies actionable emails and logs them into a structured Google Sheet — demonstrating clean logic, structured data extraction, and free-tier automation design.  
 *More AI-powered automations coming soon.*
+</details>
+
+---
+
+## 🤝 How I Work
+I care about clarity, clean logic, and real-world impact — not complexity for its own sake.  
+I love collaborating with designers, CX, marketing, and ops teams to build tools that are:
+
+✔ simple  
+✔ scalable  
+✔ well-documented  
+✔ reliable  
+
+---
+
+## 💡 What I Love
+- Designing tools that save time and reduce errors  
+- Making creative workflows faster, cleaner, and more scalable  
+- Bridging the gap between design, automation, and AI  
+- Turning real-world pain points into simple, elegant systems  
+
+---
+
+## 🔍 What I'm Open To
+- Freelance workflow automation projects  
+- Contract roles in creative operations or design ops  
+- Collaboration on AI + automation tooling  
+- Building custom solutions for creative and production teams  
+
+---
+
+## 📬 Let's Connect
+I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.*More AI-powered automations coming soon.*
 </details>
 
 ---
