@@ -2,10 +2,10 @@
 **Automation Builder • Creative Technologist • AI-Powered Workflow Designer**
 
 <p align="center">
-  <strong>Building practical automations for real workflows — fast, clean, reliable.</strong>
+  <strong>Building practical automations for real workflows fast, clean, reliable.</strong>
 </p>
 
-I turn messy, repetitive processes into clean, scalable workflows — so teams can focus on meaningful work instead of manual steps.
+I turn messy, repetitive processes into clean, scalable workflows so teams can focus on meaningful work instead of manual steps.
 
 With a background in production design and digital operations, I build lightweight automation tools that improve consistency, reduce bottlenecks, and save teams hours of manual effort — especially across creative, marketing, and operations workflows.
 
@@ -29,7 +29,7 @@ With a background in production design and digital operations, I build lightweig
 
 ## 🎨 ArtCheck — AI-Powered Artwork Review Assistant *(in active development)*
 
-ArtCheck is a specialized workflow assistant designed for the promotional products industry. It generates instant artwork previews, extracts key production details, and provides AI-powered production guidance through "ArtBot" — helping reduce back-and-forth between sales and art teams and saving hours of manual review time.
+ArtCheck is a specialized workflow assistant designed for the promotional products industry. It generates instant artwork previews, extracts key production details, and provides AI-powered production guidance through "ArtBot", helping reduce back-and-forth between sales and art teams and saving hours of manual review time.
 
 Built with Python, Streamlit, and Claude API integration. Positioned as a commercial SaaS solution targeting promotional products suppliers.
 
