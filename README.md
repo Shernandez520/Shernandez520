@@ -107,7 +107,7 @@ I love collaborating with designers, CX, marketing, and ops teams to build tools
 ---
 
 ## 📬 Let's Connect
-I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.*More AI-powered automations coming soon.*
+I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects. *More AI-powered automations coming soon.*
 </details>
 
 
