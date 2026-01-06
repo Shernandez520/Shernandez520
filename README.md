@@ -110,36 +110,4 @@ I love collaborating with designers, CX, marketing, and ops teams to build tools
 I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.*More AI-powered automations coming soon.*
 </details>
 
----
-
-## 🎨 ArtCheck — AI-Powered Artwork Review Assistant *(in active development)*
-
-ArtCheck is a specialized workflow assistant designed for the promotional products industry. It generates instant artwork previews, extracts key production details, and helps reduce back-and-forth between sales and art teams — saving hours of manual review time.
-
-*Demo + write-up coming soon.*
-
----
-
-## 🤝 How I Work
-I care about clarity, clean logic, and real-world impact — not complexity for its own sake.  
-I love collaborating with designers, CX, marketing, and ops teams to build tools that are:
-
-✔ simple  
-✔ scalable  
-✔ documented  
-✔ reliable  
-✔ and genuinely helpful  
-
----
-
-## 💡 What I Love
-- Designing tools that save time and reduce errors  
-- Making creative workflows faster, cleaner, and more scalable  
-- Bridging the gap between design, automation, and AI  
-- Turning real-world pain points into simple, elegant systems  
-
----
-
-## 📬 Let’s Connect
-I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.
 
