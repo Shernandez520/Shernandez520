@@ -2,12 +2,12 @@
 **Automation Builder • Creative Technologist • AI-Powered Workflow Designer**
 
 <p align="center">
-  <strong>Building practical automations for real workflows fast, clean, reliable.</strong>
+  <strong>Building practical tools for real workflows — fast, clean, and actually shipped.</strong>
 </p>
 
 I turn messy, repetitive processes into clean, scalable workflows so teams can focus on meaningful work instead of manual steps.
 
-With a background in production design and digital operations, I build lightweight automation tools that improve consistency, reduce bottlenecks, and save teams hours of manual effort — especially across creative, marketing, and operations workflows.
+With 20+ years in production design and digital operations across both suppliers and distributors in the promotional products industry, I build lightweight automation tools that improve consistency, reduce bottlenecks, and save teams hours of manual effort — especially across creative, marketing, and operations workflows.
 
 ---
 
@@ -15,11 +15,11 @@ With a background in production design and digital operations, I build lightweig
 
 <p align="left">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-222222?style=flat-square" />
   <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Make.com-4C27E8?style=flat-square&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -27,20 +27,24 @@ With a background in production design and digital operations, I build lightweig
 
 ---
 
-## 🎨 ArtCheck — AI-Powered Artwork Review Assistant *(in active development)*
+## 🎨 ArtCheck — AI-Powered Art File Screening *(live beta)*
 
-ArtCheck is a specialized workflow assistant designed for the promotional products industry. It generates instant artwork previews, extracts key production details, and provides AI-powered production guidance through "ArtBot", helping reduce back-and-forth between sales and art teams and saving hours of manual review time.
+ArtCheck is a SaaS tool I built from scratch on my own time, born from 20 years of watching sales and CS reps interrupt art departments for the same basic questions over and over.
 
-Built with Python, Streamlit, and Claude API integration. Positioned as a commercial SaaS solution targeting promotional products suppliers.
+It generates instant artwork previews, extracts color data (Pantone spot colors, CMYK values, grayscale percentages), screens raster images for production suitability, and provides AI-powered production guidance through **ArtBot** — giving sales reps the exact words to use with their customers.
 
-*Demo + detailed write-up coming soon.*
+**No expensive software licenses needed. No art department interruption. Just answers.**
+
+Built with Python, Streamlit, PyMuPDF, Ghostscript, and the Anthropic Claude API.
+
+🔗 **Live at [artcheck.streamlit.app](https://artcheck.streamlit.app)**
 
 ---
 
 ## 🔧 Currently Building
-- AI-powered automations in Zapier & Make.com  
-- Tools that streamline creative production workflows  
-- A growing portfolio of real-world automation projects  
+- Expanding ArtCheck with decoration method pre-screening and batch processing
+- AI-powered automations in Zapier & Make.com
+- Tools that streamline creative production workflows
 
 I like building tools that are lightweight, maintainable, and actually used by humans — with clear logic, documentation, and clean structure.
 
@@ -73,8 +77,7 @@ Batch processes product thumbnails for e-commerce workflows with consistent form
 <details>
   <summary><strong>⚡ AI Task Intake Automation (Zapier • No-Code)</strong></summary>
 
-A lightweight workflow that identifies actionable emails and logs them into a structured Google Sheet — demonstrating clean logic, structured data extraction, and free-tier automation design.  
-*More AI-powered automations coming soon.*
+A lightweight workflow that identifies actionable emails and logs them into a structured Google Sheet — demonstrating clean logic, structured data extraction, and free-tier automation design.
 </details>
 
 ---
@@ -86,7 +89,7 @@ I love collaborating with designers, CX, marketing, and ops teams to build tools
 ✔ simple  
 ✔ scalable  
 ✔ well-documented  
-✔ reliable  
+✔ actually used  
 
 ---
 
@@ -107,7 +110,4 @@ I love collaborating with designers, CX, marketing, and ops teams to build tools
 ---
 
 ## 📬 Let's Connect
-I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects. *More AI-powered automations coming soon.*
-</details>
-
-
+I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.
