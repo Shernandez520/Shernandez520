@@ -1,71 +1,97 @@
-# 👋 Hi, I'm Sheila  
-**Automation Builder • Creative Technologist • AI-Powered Workflow Designer**
+# 👋 Hi, I'm Sheila Hernandez
+**Creative Operations & Workflow Automation Specialist**  
+*Promotional Products Industry • 20+ Years • Remote*
 
 <p align="center">
-  <strong>Building practical tools for real workflows — fast, clean, and actually shipped.</strong>
+  <strong>I find the manual, repetitive, expensive bottleneck — and I eliminate it.</strong>
 </p>
 
-I turn messy, repetitive processes into clean, scalable workflows so teams can focus on meaningful work instead of manual steps.
-
-With 20+ years in production design and digital operations across both suppliers and distributors in the promotional products industry, I build lightweight automation tools that improve consistency, reduce bottlenecks, and save teams hours of manual effort — especially across creative, marketing, and operations workflows.
+I build lightweight, practical automation tools that help creative, operations, and production teams work faster and more consistently. My background is deep in promotional products — both supplier and distributor side — which means I don't just understand the technology, I understand the workflows it has to survive in.
 
 ---
 
 ## 🧰 Tech & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-4C27E8?style=flat-square&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+**Scripting & Automation**  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Batch](https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-4C27E8?style=flat-square&logo=make&logoColor=white)
+
+**AI & Development**  
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-222222?style=flat-square)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Creative Production**  
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![ExtendScript](https://img.shields.io/badge/ExtendScript%20JSX-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+**Project & Operations**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
-## 🎨 ArtCheck — AI-Powered Art File Screening *(live beta)*
+## 🎨 ArtCheck — AI-Powered Art File Screening *(live)*
 
-ArtCheck is a SaaS tool I built from scratch on my own time, born from 20 years of watching sales and CS reps interrupt art departments for the same basic questions over and over.
+[![ArtCheck](https://img.shields.io/badge/Live%20App-artcheck.streamlit.app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://artcheck.streamlit.app)
+[![Repo](https://img.shields.io/badge/GitHub-artcheck-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shernandez520/artcheck)
+[![Status](https://img.shields.io/badge/status-live%20beta-brightgreen?style=flat-square)]()
 
-It generates instant artwork previews, extracts color data (Pantone spot colors, CMYK values, grayscale percentages), screens raster images for production suitability, and provides AI-powered production guidance through **ArtBot** — giving sales reps the exact words to use with their customers.
+ArtCheck is a SaaS tool I designed and built from scratch on my own time — born from 20 years of watching sales and CS reps interrupt art departments for the same basic questions over and over.
 
-**No expensive software licenses needed. No art department interruption. Just answers.**
+It generates instant artwork previews, extracts color data (Pantone spot colors, CMYK values, K% ink coverage), screens raster images for production suitability, and provides AI-powered production guidance through **ArtBot** — giving reps the exact words they need to use with customers and vendors.
+
+**Supported formats:** PDF, AI, EPS, PNG, JPG, PSD, SVG, CDR, PES embroidery files
+
+**No expensive software. No art department interruption. Just answers.**
 
 Built with Python, Streamlit, PyMuPDF, Ghostscript, and the Anthropic Claude API.
 
-🔗 **Live at [artcheck.streamlit.app](https://artcheck.streamlit.app)**
+---
+
+## ⚙️ FINALIZER Batch Suite — Production File Automation
+
+[![Repo](https://img.shields.io/badge/GitHub-finalizer--batch--suite-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shernandez520/finalizer-batch-suite)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=flat-square)]()
+[![Status](https://img.shields.io/badge/status-production--ready-brightgreen?style=flat-square)]()
+
+A real-world automation I built to eliminate the manual post-approval finalization step in a logo registration workflow. After proof approval, the Graphics team previously had to manually duplicate folders, open each PDF in Illustrator, export PNGs, toggle background layers, save, close, ZIP, and log — for every single job.
+
+FINALIZER does all of it from a single right-click **Send-To** action.
+
+**Stack:** Windows Batch, Adobe ExtendScript (JSX), PowerShell — coordinated via flag-file handshake for Dropbox-safe execution.
+
+> ⚠️ This tool is tailored to a specific internal workflow and folder/naming convention. It's included here as a portfolio example of cross-technology orchestration and production automation design — not as a plug-and-play utility.
 
 ---
 
 ## 🔧 Currently Building
-- Expanding ArtCheck with decoration method pre-screening and batch processing
-- AI-powered automations in Zapier & Make.com
-- Tools that streamline creative production workflows
 
-I like building tools that are lightweight, maintainable, and actually used by humans — with clear logic, documentation, and clean structure.
+- Phase 2 of FINALIZER — API integration to auto-upload finalized files and complete orders post-approval
+- Expanding ArtCheck with decoration method pre-screening and vectorization (premium tier)
+- AI-powered workflow automations in Zapier & Make.com
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ More Projects
 
 <details>
   <summary><strong>📁 Image Sorting Tool (PowerShell)</strong></summary>
 
-Automatically sorts images by orientation and logs results — perfect for prepping large creative batches before Photoshop or Illustrator workflows.  
-Built to solve real-world production problems and reduce repetitive prep steps.
+Automatically sorts images by orientation and logs results — built to reduce repetitive prep steps before large Illustrator or Photoshop batch workflows.
 </details>
 
 <details>
-  <summary><strong>🎨 Illustrator Automation Scripts</strong></summary>
+  <summary><strong>🖼️ Illustrator Automation Scripts (JSX)</strong></summary>
 
-- **Size & Center Action (.aia):** Automatically sizes and centers logos on a template for consistent production output.  
-- **PNG Export Script (.jsx):** Batch-exports open PDFs to PNG with white backgrounds at 72 PPI — ideal for web, mockups, and proofing.
-
-Designed to improve consistency and eliminate repetitive manual alignment + export tasks.
+- **Size & Center Action (.aia):** Automatically sizes and centers logos on a production template for consistent output.
+- **PNG Batch Export (.jsx):** Exports open PDFs to PNG with white backgrounds at 72 PPI for web, mockups, and proofing.
 </details>
 
 <details>
@@ -75,39 +101,36 @@ Batch processes product thumbnails for e-commerce workflows with consistent form
 </details>
 
 <details>
-  <summary><strong>⚡ AI Task Intake Automation (Zapier • No-Code)</strong></summary>
+  <summary><strong>⚡ AI Task Intake Automation (Zapier)</strong></summary>
 
-A lightweight workflow that identifies actionable emails and logs them into a structured Google Sheet — demonstrating clean logic, structured data extraction, and free-tier automation design.
+Identifies actionable emails and logs them into a structured Google Sheet — clean logic, structured data extraction, free-tier design.
 </details>
 
 ---
 
 ## 🤝 How I Work
+
 I care about clarity, clean logic, and real-world impact — not complexity for its own sake.  
-I love collaborating with designers, CX, marketing, and ops teams to build tools that are:
+I collaborate well with designers, CX, marketing, and ops teams to build tools that are:
 
-✔ simple  
-✔ scalable  
-✔ well-documented  
-✔ actually used  
-
----
-
-## 💡 What I Love
-- Designing tools that save time and reduce errors  
-- Making creative workflows faster, cleaner, and more scalable  
-- Bridging the gap between design, automation, and AI  
-- Turning real-world pain points into simple, elegant systems  
+✔ simple enough to actually be used  
+✔ scalable when the need grows  
+✔ well-documented for the next person  
+✔ designed around real constraints, not ideal conditions  
 
 ---
 
 ## 🔍 What I'm Open To
-- Freelance workflow automation projects  
-- Contract roles in creative operations or design ops  
-- Collaboration on AI + automation tooling  
-- Building custom solutions for creative and production teams  
+
+- Remote contract or full-time roles in **workflow automation, creative operations, or implementation**
+- Freelance automation projects for creative and production teams
+- Collaboration on AI + automation tooling
+- Teams that value domain expertise + technical execution together
 
 ---
 
 ## 📬 Let's Connect
-I'm always open to sharing ideas, trading automation tips, or collaborating on creative tooling and workflow projects.
+
+Always happy to trade automation notes, talk creative ops, or explore whether we're a good fit for something.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheila%20Hernandez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheilahernandez520)
