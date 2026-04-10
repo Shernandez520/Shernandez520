@@ -3,10 +3,10 @@
 *Promotional Products Industry • 20+ Years • Remote*
 
 <p align="center">
-  <strong>I find the manual, repetitive, expensive bottleneck — and I eliminate it.</strong>
+  <strong>I find the manual, repetitive, expensive bottleneck & eliminate it.</strong>
 </p>
 
-I build lightweight, practical automation tools that help creative, operations, and production teams work faster and more consistently. My background is deep in promotional products — both supplier and distributor side — which means I don't just understand the technology, I understand the workflows it has to survive in.
+I build lightweight, practical automation tools that help creative, operations, and production teams work faster and more consistently. My background is deep in promotional products (both supplier and distributor side) which means I don't just understand the technology, I understand the workflows it has to survive in.
 
 ---
 
