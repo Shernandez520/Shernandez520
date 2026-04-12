@@ -15,6 +15,8 @@ I build lightweight, practical automation tools that help creative, operations, 
 **Scripting & Automation**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 ![Batch](https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-4C27E8?style=flat-square&logo=make&logoColor=white)
@@ -73,7 +75,7 @@ FINALIZER does all of it from a single right-click **Send-To** action.
 
 ## 🔧 Currently Building
 
-- Phase 2 of FINALIZER — API integration to auto-upload finalized files and complete orders post-approval
+- **FINALIZER Extended Architecture** — Post-Finalizer agent that automates end-to-end GR lifecycle closeout: color extraction from output files, automated file delivery to NetSuite and HUB Logo Registration, status updates across both systems, and Teams-based exception handling for complex files. Stack: Python + Selenium, PowerShell, Power Automate. Architecture proposal complete; pending management green light.
 - Expanding ArtCheck with decoration method pre-screening and vectorization (premium tier)
 - AI-powered workflow automations in Zapier & Make.com
 
