@@ -57,15 +57,23 @@ Brand colors change all the time, and opening files one by one doesn't scale. Th
 
 ---
 
-### ⚙️ [FINALIZER Batch Suite](https://github.com/Shernandez520/finalizer-batch-suite): production file automation
+### ⚙️ [FINALIZER Batch Suite](https://github.com/Shernandez520/finalizer-batch-suite): production file automation *(v2)*
 
 [![Repo](https://img.shields.io/badge/GitHub-finalizer--batch--suite-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shernandez520/finalizer-batch-suite)
+[![Version](https://img.shields.io/badge/version-2.0-blue?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=flat-square)]()
-[![Status](https://img.shields.io/badge/status-production--ready-brightgreen?style=flat-square)]()
+[![Admin](https://img.shields.io/badge/admin%20rights-not%20required-brightgreen?style=flat-square)]()
 
-This replaced the manual post-approval step in a logo registration workflow. After a proof was approved, the Graphics team used to do all of this by hand for every job: duplicate folders, open each PDF in Illustrator, export PNGs, toggle background layers, save, close, ZIP and log. **FINALIZER does all of it from a single right-click Send-To action.**
+This replaced the manual post-approval step in a logo registration workflow. After a proof was approved, the Graphics team used to do all of this by hand for every job: copy the latest proof folder to FINAL, open each PDF in Illustrator, export PNGs, hide background layers, save, close and ZIP. **FINALIZER does all of it from a single right-click Send to action.**
 
-`Windows Batch` · `Adobe ExtendScript (JSX)` · `PowerShell`, coordinated through a flag-file handshake so it runs safely in Dropbox.
+**v2** is a full rewrite built for reliability on a locked-down, Dropbox-based machine:
+- **Only this job's files:** Illustrator processes the job's PDFs one at a time and never touches other open files
+- **Fails safely:** nothing is zipped unless every PDF succeeds, and the ZIP is checked to contain every one
+- **Can't stall:** time limits and suppressed pop-ups instead of waits that could last forever
+- **Clean output:** nothing extra is written to the delivery folder, and the log lives outside Dropbox
+- **Easy install:** no admin rights, Illustrator found automatically, and a one-click installer
+
+`Windows Batch` · `Adobe ExtendScript (JSX)` · `PowerShell` · `Node.js test harness`
 
 > ⚠️ It's built around one internal workflow's folder and naming conventions. I include it as an example of cross-technology orchestration, not as a plug-and-play utility.
 
