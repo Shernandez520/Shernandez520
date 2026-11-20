@@ -94,7 +94,6 @@ This replaced the manual post-approval step in a logo registration workflow. Aft
 
 ## 🔧 Currently Building
 
-- **FINALIZER Extended:** a follow-on automation that closes out the whole logo registration lifecycle after FINALIZER runs. It pulls colors from the output files, delivers files to the order and logo-registration systems, updates status in both, and routes complex files to a person through Teams. The architecture proposal is done.
 - **Learning:** Power Automate and Power BI, to bring the same approach to Microsoft 365 workflows.
 
 ---
