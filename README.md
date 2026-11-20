@@ -99,7 +99,6 @@ This replaced the manual post-approval step in a logo registration workflow. Aft
 ![ExtendScript](https://img.shields.io/badge/ExtendScript%20JSX-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Batch](https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-4C27E8?style=flat-square&logo=make&logoColor=white)
 
 **AI & Development**  
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-222222?style=flat-square)
